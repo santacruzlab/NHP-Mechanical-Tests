@@ -1,1 +1,1 @@
-# Rhesus-Macaque-Brain-Mechanics
+# NHP Mechanical Tests
